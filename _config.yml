@@ -1,0 +1,27 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://concoffee.com
+title: ConCoffee
+email: your-email@domain.com
+author: Hart Hoover
+description: > # "Write an awesome description for your new site here.
+  Join us at tech conferences for delicious coffee!
+copyright: 'Copyright &copy; 2017 ConCoffee. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/hhoover
