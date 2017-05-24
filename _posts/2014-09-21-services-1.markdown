@@ -6,3 +6,5 @@ title: Next Meetup:<br>CoreOS Fest
 description: |
 ---
   We'll be meeting at Blue Bottle Coffee on May 31st at 7AM in the Ferry Building. It's right down The Embarcadero from [CoreOS Fest](https://coreos.com/fest/). See you there!
+
+  [Add to Calendar (ics)](/ConCoffeeMeetup.ics)
